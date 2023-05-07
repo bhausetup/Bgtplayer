@@ -1,7 +1,4 @@
-# Powered By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Updates
-# Join @AdityaCheats For Hacks
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# 𝗖𝗛𝗘𝗥𝗥𝗬 𝗙𝗜𝗭𝗔
 
 
 from pyrogram import filters
@@ -39,7 +36,4 @@ async def pause_admin(cli, message: Message, _, chat_id):
     )
 
 
-# Powered By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Updates
-# Join @AdityaCheats For Hacks
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Powered By 𝗖𝗛𝗘𝗥𝗥𝗬 
