@@ -52,12 +52,12 @@ async def init():
     await userbot.start()
     await Bikashh.start()
     try:
-        await Bikashh.stream_decall("https://te.legra.ph/file/f73af9a4ffe130a83d8d2.jpg")
+        await Bikashh.stream_decall("https://graph.org/file/60475df3ad2977e20128b.jpg")
     except:
         pass
     try:
         await Bikashh.stream_call(
-            "https://te.legra.ph/file/f73af9a4ffe130a83d8d2.jpg"
+            "https://graph.org/file/60475df3ad2977e20128b.jpg"
         )
     except NoActiveGroupCall:
         LOGGER("Bikash").error(
@@ -67,10 +67,10 @@ async def init():
     except:
         pass
     await Bikashh.decorators()
-    LOGGER("Bikash").info("Bikash Player Started")
+    LOGGER("Bikash").info("CHE33Y Player Started")
     await idle()
 
 
 if __name__ == "__main__":
     loop.run_until_complete(init())
-    LOGGER("Bikash").info("Stopping Music Bot...")
+    LOGGER("CHERRY").info("Stopping Music Bot...")
