@@ -227,7 +227,7 @@ async def play_commnd(
                 and not config.SPOTIFY_CLIENT_SECRET
             ):
                 return await mystic.edit_text(
-                    "𝐓𝐡𝐢𝐬 𝐁𝐨𝐭 𝐂𝐚𝐧'𝐭 𝐏𝐥𝐚𝐲 𝐒𝐩𝐨𝐭𝐢𝐟𝐲 𝐓𝐫𝐜𝐤𝐬 𝐨𝐫 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭𝐬 𝐑𝐞𝐩𝐨𝐫𝐭 [𝐁𝐠𝐭 𝐂𝐡𝐚𝐭](https://t.me/Bgt_Chat)."
+                    "𝐓𝐡𝐢𝐬 𝐁𝐨𝐭 𝐂𝐚𝐧'𝐭 𝐏𝐥𝐚𝐲 𝐒𝐩𝐨𝐭𝐢𝐟𝐲 𝐓𝐫𝐜𝐤𝐬 𝐨𝐫 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭𝐬 𝐑𝐞𝐩𝐨𝐫𝐭 [𝐂𝐡𝐞𝐫𝐫𝐲](https://t.me/DRACULA_CHEERY)."
                 )
             if "track" in url:
                 try:
