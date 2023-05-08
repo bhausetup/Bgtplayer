@@ -1,13 +1,9 @@
-### Powered By @BikashHalder & @AdityaHalder 
-
-### Join @BikashGadgetsTech For More Update
-
-### Join @AdityaCheats For Hack
-
-### Join Our Chats @Bgt_Chat & @Adityadiscus 
-
-
-### Powered By [@BikashHalder](https://t.me/Bikashhalder)
+<h2 align="center">
+    ──「 🍷 𝐃𝐢𝐥Ɽ𝐮𝐛𝐚 🍷 」──
+</h2>
+<p align="center">
+  <img src="https://telegra.ph/file/72fc4ed0b02894736b3b7.jpg">
+</p>
 
 
 ### ABOUT THIS BOT
