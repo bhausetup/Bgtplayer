@@ -1,7 +1,7 @@
 {
-    "name": "Bgt Music Bot",
+    "name": "𝐅𝐢𝐳𝐚𝐂𝐡𝐞𝐫𝐫𝐲",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/c8135608b7f9f77541a82.jpg",
+    "logo": "https://telegra.ph/file/72fc4ed0b02894736b3b7.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -34,26 +34,26 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters",
-        "value": "🌟⃝🌸𓆩🇧𝗚𝗧🎸🇲𝗨𝗦𝗜𝗖🎸🇧𝗢𝗧𓆪💫⃟👑 ",
+        "value": "🌟⃝🌸𝐅𝐢𝐳𝐚𝐂𝐡𝐞𝐫𝐫𝐲 ",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "1439222689",
+        "value": "5572586305",
         "required": true
       },
       "SUPPORT_GROUP": {
         "description": "Input Your Support Group with Full Link like https://t.me/Bgt_Chat",
-        "value": "https://t.me/BGT_CHAT",
+        "value": "https://t.me/ISHQ00_I",
         "required": true
       },
       "SUPPORT_CHANNEL": {
         "description": "Input Your Support Channel full link ",
-        "value": "https://t.me/BIKASHGADGETSTECH",
+        "value": "https://t.me/ITSBOTS",
         "required": true
       },
       "STRING_SESSION": {
-        "description": "A Pyrogram String Session. One Assistant is Compulsory.",
+        "description": "open the string bot and do it [stringbot](https://t.me/STRING_XBOT) .",
         "value": "",
         "required": true
       },
