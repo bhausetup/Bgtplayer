@@ -15,26 +15,20 @@
 ## 🥀 Bot Deploy On Workflow / (KAALI LINUX)
  At 1st Import This Repo Then Input All Value In Internal File || Then Proceed Kaali Linux Value Or Ect.
 
-## 🥀 Kaali Linux Tutorial
 
-[Kaali Linux](https://youtu.be/_nZT5lhcL8U)
-
-## ⚒️ 𝐂𝐫𝐞𝐝𝐢𝐭
-[𝐁𝐢𝐤𝐚𝐬𝐡](https://t.me/BikashHalder)
+## ⚒️ 𝐂𝐫𝐞𝐝𝐢𝐭 𝐂𝐡𝐞𝐫𝐫𝐲
+[𝐂𝐡𝐞𝐫𝐫𝐲](https://t.me/DRACULA_CHEERY)
 
 ## Telegram 🏪
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/BGT_Chat)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/ISHQ00_I)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Bikashgadgetstech)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/ITSBOTS)
 
-## YouTube 📺
-
-[YouTube Channel](https://youtube.com/channel/UCUkj6FFzdsOO5acUXVOEECg)
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/BikashHalderNew/Bgtplayer)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/bhausetup/FIZAxCHERRY)
 
 ## VPS DEPLOY                                                                                          
 💥 𝐎𝐧𝐥𝐲 𝐅𝐨𝐫 𝐅𝐢𝐫𝐬𝐭 𝐓𝐢𝐦𝐞 (𝐕𝐏𝐒) 💞
@@ -48,7 +42,7 @@
 4) nvm install node
 
 5. Clone the Repository :
-git clone https://github.com/BikashhalderNew/BgtPlayer &&  cd Bgtplayer
+git clone https://github.com/bhausetup/FIZAxCHERRY &&  cd FIZAxCHERRY
 
 6. Install Installer : 
 pip3 install -r Installer
@@ -66,14 +60,12 @@ python3 -m modules
 #### 🥺 Copy Pasters You Can Copy This Repo But Must Give Credits ...
 
 ### 🌷 Owner Of This Repository 🇮🇳
-[![Bikash Halder](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/BikashHalder)
+[![CHE33Y](https://graph.org/file/8d39756bc83cc3762320d.jpg)](https://t.me/DRACULA_CHEERY)
 
 
-#### Main Developer = [Bikash](https://t.me/BikashHalder)
+#### Main Developer = [CHE33Y](https://t.me/DRACULA_CHEERY)
 
-## 💕 Special Thanks
 
-✅ Aditya Halder Thanks For Fixed All Error Or Lovely Support 💕
 
 ### 🥳 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐡𝐚𝐧𝐤𝐬 𝐅𝐨𝐫 𝐓𝐡𝐞𝐢𝐫 𝐒𝐨𝐮𝐫𝐜𝐞𝐬 🥳
 
@@ -81,7 +73,7 @@ python3 -m modules
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 
-## 🥀 Powered By [BikashHalder](https://t.me/Bikashhalder) & [AdityaHalder](https://t.me/Adityahalder)
+## 🥀 Powered By [CHE33Y](https://t.me/DRACULA_CHEERY) 
 <p align="center">
   <img src="https://telegra.ph/file/b3a574c42856ad52b0cda.jpg">
 </p>
