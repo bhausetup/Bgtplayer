@@ -1,8 +1,8 @@
 <h2 align="center">
-    ──「 🍷 𝐃𝐢𝐥Ɽ𝐮𝐛𝐚 🍷 」──
+    ──「 🍷 𝐂𝐡𝐞𝐫𝐫𝐲‌🇽‌𝐅𝐢𝐳𝐚 🍷 」──
 </h2>
 <p align="center">
-  <img src="https://telegra.ph/file/72fc4ed0b02894736b3b7.jpg">
+  <img src="https://graph.org/file/e11047f8bd595890903ed.jpg">
 </p>
 
 
