@@ -82,3 +82,6 @@ python3 -m modules
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 
 ## 🥀 Powered By [BikashHalder](https://t.me/Bikashhalder) & [AdityaHalder](https://t.me/Adityahalder)
+<p align="center">
+  <img src="https://telegra.ph/file/b3a574c42856ad52b0cda.jpg">
+</p>
